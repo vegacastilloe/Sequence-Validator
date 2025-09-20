@@ -1,7 +1,7 @@
 # Sequence-Validator
 ![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
-![Last Updated](https://img.shields.io/github/last-commit/vegacastillo/page-cv-web)
+![Last Updated](https://img.shields.io/github/last-commit/vegacastilloe/Sequence-Validator)
 ![Language](https://img.shields.io/badge/language-español-darkred)
 
 #
